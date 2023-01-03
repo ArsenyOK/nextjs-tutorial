@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Link href="/posts/first-post">First post</Link>
+        <Link href="/posts/2">First post</Link>
       </main>
 
       <footer>
